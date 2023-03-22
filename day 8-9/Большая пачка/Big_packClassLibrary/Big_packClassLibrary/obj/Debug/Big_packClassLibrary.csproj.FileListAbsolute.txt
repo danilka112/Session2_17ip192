@@ -1,0 +1,11 @@
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\bin\Debug\Big_packClassLibrary.dll
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\bin\Debug\Big_packClassLibrary.pdb
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.csprojAssemblyReference.cache
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.dll
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.pdb
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\bin\Debug\Big_packClassLibrary.dll
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\bin\Debug\Big_packClassLibrary.pdb
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.csproj.AssemblyReference.cache
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.dll
+C:\Users\safat\Desktop\Большая пачка\Big_packClassLibrary\Big_packClassLibrary\obj\Debug\Big_packClassLibrary.pdb

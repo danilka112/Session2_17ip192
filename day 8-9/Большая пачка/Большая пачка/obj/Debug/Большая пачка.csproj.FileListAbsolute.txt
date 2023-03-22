@@ -1,0 +1,41 @@
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\bin\Debug\Большая пачка.exe.config
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\bin\Debug\Большая пачка.exe
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\bin\Debug\Большая пачка.pdb
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая пачка.csprojAssemblyReference.cache
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Form1.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Properties.Resources.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая пачка.csproj.GenerateResource.cache
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая пачка.exe
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая пачка.pdb
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Add.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Edit.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.AddSupplier.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.EditSupplier.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\bin\Debug\Большая пачка.exe.config
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\bin\Debug\Большая пачка.exe
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\bin\Debug\Большая пачка.pdb
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая пачка.csprojAssemblyReference.cache
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Add.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.AddSupplier.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Edit.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.EditSupplier.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Form1.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая_пачка.Properties.Resources.resources
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая пачка.csproj.GenerateResource.cache
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая пачка.exe
+E:\Документы-stud\IP192\WeeWee\УП02-2023\git\Большая пачка\Большая пачка\obj\Debug\Большая пачка.pdb
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\bin\Debug\Большая пачка.exe.config
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\bin\Debug\Большая пачка.exe
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\bin\Debug\Большая пачка.pdb
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.csproj.AssemblyReference.cache
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.csproj.SuggestedBindingRedirects.cache
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.Add.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.AddSupplier.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.Edit.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.EditSupplier.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.Form1.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая_пачка.Properties.Resources.resources
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.csproj.GenerateResource.cache
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.csproj.CoreCompileInputs.cache
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.exe
+C:\Users\safat\Desktop\Большая пачка1\Большая пачка\obj\Debug\Большая пачка.pdb

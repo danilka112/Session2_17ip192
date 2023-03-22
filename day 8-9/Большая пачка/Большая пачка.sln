@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Большая пачка", "Большая пачка\Большая пачка.csproj", "{A27A4CA2-16C8-48E1-BEE5-F6E966F6EF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big_packClassLibrary.Tests1", "Big_packClassLibrary\Big_packClassLibrary.Tests1\Big_packClassLibrary.Tests1.csproj", "{18C0E9E8-307A-4409-82D2-ED4BD29C0732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27A4CA2-16C8-48E1-BEE5-F6E966F6EF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27A4CA2-16C8-48E1-BEE5-F6E966F6EF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27A4CA2-16C8-48E1-BEE5-F6E966F6EF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27A4CA2-16C8-48E1-BEE5-F6E966F6EF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C0E9E8-307A-4409-82D2-ED4BD29C0732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C0E9E8-307A-4409-82D2-ED4BD29C0732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C0E9E8-307A-4409-82D2-ED4BD29C0732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C0E9E8-307A-4409-82D2-ED4BD29C0732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2430F49-630D-4D74-8BEB-650EAF175950}
+	EndGlobalSection
+EndGlobal
